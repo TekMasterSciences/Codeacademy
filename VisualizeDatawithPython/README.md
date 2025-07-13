@@ -29,7 +29,7 @@ Women and children had significantly higher chances of survival compared to men.
 <p><strong>Survival by Category</strong></p>
 <img src="SurvivalCountsByPassengerCategory.png" alt="Survival by Category" width="800"/>
 
-<p><strong>Survival vs Lost by Age and Gender</strong></p>
+<p><strong>Survival vs Lost by Age and Gender ( Families Torn Apart )</strong></p>
 <img src="SurvivalVsLostAgeAndGender.png" alt="Survival vs Lost by Age and Gender" width="800"/>
 
 ## Python Version and Library Dependencies
