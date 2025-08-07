@@ -44,7 +44,19 @@ This analysis aims to answer critical questions at both global and national leve
 
 ---
 
+<h2> Final Visualization</h2>
 
+<p><strong>Global Confirmed Cases Over Time</strong></p>
+<img src="GlobalConfirmedCasesOverTime.png" alt="Global Confirmed Cases Over Time" width="800"/>
+
+<p><strong>Global Spread Across Countries</strong></p>
+<img src="GlobalSpreadAcrossCountries.png" alt="Global Spread Across Countries" width="800"/>
+
+<p><strong>Top10 Countries With Most Confirmed Cases</strong></p>
+<img src="Top10CountriesWithMostConfirmedCases.png" alt="Top10 Countries With Most Confirmed Cases" width="800"/>
+
+<p><strong>Most Confimed Cases In The US Animated Heat-Map</strong></p>
+<img src="MostConfimedCasesInTheUS_AnimatedHeatMap.png" alt="Most Confimed Cases In The US Animated Heat-Map" width="800"/>
 
 
 ## Python Version and Library Dependencies
