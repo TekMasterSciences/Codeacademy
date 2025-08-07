@@ -43,3 +43,12 @@ This analysis aims to answer critical questions at both global and national leve
 3. **Nationwide Spread of Confirmed Cases Over Time**  
 
 ---
+
+
+
+
+## Python Version and Library Dependencies
+- Python (3.12.7)
+- matplotlib==3.9.2
+- pandas==2.2.2
+- us==3.2.0
